@@ -2,23 +2,15 @@
 
 ## **Active Mainnets**
 
-🟢 Gravity-Bridge 
-
-🟢 Canto
-
-🟢 Tgrade
+🟢 Teritori
 
 🟢 Rebus
 
 🟢 Stride
 
-🟢 Forta
 
 ## **Upcoming Mainnets**
 
 🔴 Archway
 
 🔴 Quicksilver
-
-🔴 Teritori
-
